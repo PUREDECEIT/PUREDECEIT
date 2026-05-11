@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cipherites&label=⠀prattle⠀cast⠀amongst⠀the⠀folks⠀:⠀&color=blue" alt="" /> 
 <p align="center">
-  <img src="https://files.catbox.moe/bivmpr.webp" alt="" width="200">
+  <img src="https://files.catbox.moe/zoukxe.gif" alt="" width="200">
 </p>
 <p align="center">
   <a href="https://voxval.atabook.org/">新BOOK</a> ⠀⠀
